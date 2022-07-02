@@ -43,10 +43,12 @@ while i == 'Y' or i =='y':
     if i == 'N' or i =='n':
         print()
         print("Спасибо за игру")
+        print("До скорой встречи!")
         break
     elif i == 'Y' or i =='y':
         print()
         print("Хорошее решение!")
     else:
         print("Спасибо за игру")
+        
     
